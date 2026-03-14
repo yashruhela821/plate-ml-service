@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.cache/
+.paddleocr/
+.ultralytics/
+.env
+venv/
